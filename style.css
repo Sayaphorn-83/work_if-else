@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+.container{
+    margin-top: 10%;
+    background-color: #FFD4D4;
+    border: 2px;
+    border: dotted 5px cadetblue;
+}
+.but{
+    border-radius: 50px;
+    background: #FFFFE8;
+}
